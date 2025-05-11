@@ -1,2 +1,3 @@
-# portfolio-pessoal-wesley
-Página pessoal simples com nome, título e link para o GitHub.
+# Projeto 10 - Site Portfólio Pessoal
+
+Site pessoal de apresentação com link para o GitHub.
